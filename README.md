@@ -5,8 +5,8 @@ But what really is entropy? Most people may know it as the force which increases
 Take a cup of hot water. Given enough time, heat would spread out, eventually causing all the heat to be equal in the area, however this arragement of heat would be most orderly, correct?
 Furthermore, entropy isn't even a force at all; there is no action physically compelling objects to arrange themselves equally. Then how can it be explained?
 Simply put, entropy is a statistical property of randomly-moving objects to scatter out over time. And entropy is everywhere. Osmosis, the process used to maintain the balance of water in one's cells,
-is simply entropy applied within life. Same with the diffusion of heat or scents in a room; it all ties back to entropy. When talking about particles, entropy is specifically caused by Brownian motion;
-as thousands of particles collide with eachother, their movement is so chaotic that it appears to be random.
+is simply entropy applied within life. Same with the diffusion of heat or scents in a room; it all ties back to entropy. When talking about particles, the random movement
+required for entropy is caused by Brownian motion; as thousands of particles collide with eachother, their movement is so chaotic that it appears to be random.
 
 ## Basic Overview of Simulation:
 This project is a simulation of how, via random walks, objects distribute themselves equally in a space given enough time.
